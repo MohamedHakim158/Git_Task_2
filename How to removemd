@@ -1,7 +1,0 @@
-To remove a branch locally we can use these 2 commands
-  git branch -d dev 
-  git branch -d test
-
-To remove them remotely
-  git push --delete dev
-  git push --delete test
